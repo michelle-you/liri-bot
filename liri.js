@@ -162,7 +162,7 @@ fs.readFile('random.txt', "utf8", function(error, data){
     if (dataArray[0] === "spotify-this-song") 
     {
       var songcheck = dataArray[1].trim().slice(1, -1);
-      spotSong(songcheck);
+      spotifySong(songcheck);
     } 
     else if (dataArray[0] === "concert-this") 
     { 

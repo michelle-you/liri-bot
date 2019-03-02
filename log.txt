@@ -1,0 +1,322 @@
+
+------------------------------------
+
+Date: 03/04/2019
+Name: Laroc Club
+City: Bairro Dos Lopes
+Country: Brazil
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/04/2019
+Name: Camarote N1
+City: Rio De Janeiro
+Country: Brazil
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/05/2019
+Name: Camarote Salvador
+City: Ondina
+Country: Brazil
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/15/2019
+Name: Intrigue Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/16/2019
+Name: Encore Beach Club
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/22/2019
+Name: Intrigue Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/27/2019
+Name: Intrigue Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/30/2019
+Name: E11EVEN MIAMI
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/30/2019
+Name: Get Lost
+City: Miami
+Country: FL
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 03/31/2019
+Name: Encore Beach Club
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/04/2019
+Name: Encore Beach Club
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/12/2019
+Name: Coachella Valley Music & Arts Festival 
+City: Indio
+Country: CA
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/19/2019
+Name: Coachella Valley Music & Arts Festival 
+City: Indio
+Country: CA
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/19/2019
+Name: Day Club Palm Springs
+City: Palm Springs
+Country: CA
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/20/2019
+Name: Intrigue Nightclub
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/27/2019
+Name: XS Las Vegas
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 04/28/2019
+Name: Stagecoach Music Festival
+City: Indio
+Country: CA
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 05/03/2019
+Name: Empire Music Festival (May 3-4)
+City: Guatemala
+Country: Guatemala
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 05/04/2019
+Name: SunFest 2019
+City: West Palm Beach
+Country: FL
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 05/16/2019
+Name: Hangout Fest 2019 (May 16-19) 
+City: Gulf Shores
+Country: AL
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 05/18/2019
+Name: Infield Fest
+City: Baltimore
+Country: MD
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 06/02/2019
+Name: Oasis Montreal
+City: Montreal
+Country: Canada
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 06/07/2019
+Name: Field Day Festival (June 7- 8)
+City: London
+Country: United Kingdom
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 06/27/2019
+Name: Tinderbox (June 28-30)
+City: Odense
+Country: Denmark
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 06/28/2019
+Name: OpenAir St. Gallen (June 27 - 30)
+City: St. Gallen
+Country: Switzerland
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 07/02/2019
+Name: Open’er Festival (July 2-5)
+City: Pucki
+Country: Poland
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 07/05/2019
+Name: Ruisrock Festival (July 5th-7th)
+City: Ruissalo
+Country: Finland
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 08/01/2019
+Name: X Games Minneapolis (Aug 1 - 4)
+City: Minneapolis
+Country: MN
+Country: United States
+
+---------------------------------
+
+
+------------------------------------
+
+Date: 08/23/2019
+Name: Mysteryland (Aug 23-25)
+City: Hoofddorp
+Country: Netherlands
+
+---------------------------------
+
+
+---------------------------------------------------
+
+Title: Limitless
+Release Year: 2011
+IMDB Rating: 7.4
+Rotten Tomatoes Rating: 69%
+Country: USA
+Language: English, Russian, Italian, Mandarin, French
+Plot: With the help of a mysterious pill that enables the user to access one hundred percent of his brain abilities, a struggling writer becomes a financial wizard, but it also puts him in a new world with lots of dangers.
+Actors: Bradley Cooper, Robert De Niro, Abbie Cornish, Andrew Howard
+
+---------------------------------------------------
+
